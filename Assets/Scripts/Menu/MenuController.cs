@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class MenuController : MonoBehaviour
@@ -12,5 +10,10 @@ public class MenuController : MonoBehaviour
     public void StartGame()
     {
         GameController.Instance.RetryLevels();
+    }
+
+    public void OpenOnGithub()
+    {
+        Application.OpenURL("https://github.com/DoginUwU/portfolio-game");
     }
 }
