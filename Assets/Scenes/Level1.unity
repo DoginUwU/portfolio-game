@@ -6878,10 +6878,26 @@ PrefabInstance:
       propertyPath: heartPanel
       value: 
       objectReference: {fileID: 268675634}
+    - target: {fileID: 1375838582354341953, guid: 459900b829f2dcd4da92cf3a6f16c4c2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.3691883
+      objectReference: {fileID: 0}
+    - target: {fileID: 1375838582354341953, guid: 459900b829f2dcd4da92cf3a6f16c4c2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.00000047683716
+      objectReference: {fileID: 0}
+    - target: {fileID: 1375838583019978534, guid: 459900b829f2dcd4da92cf3a6f16c4c2, type: 3}
+      propertyPath: m_Damping
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1375838583019978534, guid: 459900b829f2dcd4da92cf3a6f16c4c2, type: 3}
       propertyPath: m_BoundingShape2D
       value: 
       objectReference: {fileID: 1553568411}
+    - target: {fileID: 1375838583019978534, guid: 459900b829f2dcd4da92cf3a6f16c4c2, type: 3}
+      propertyPath: m_ConfineScreenEdges
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 459900b829f2dcd4da92cf3a6f16c4c2, type: 3}
 --- !u!1001 &3229158797394876151
